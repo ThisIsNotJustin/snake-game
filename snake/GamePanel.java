@@ -1,9 +1,9 @@
+package Timer;
+
 import java.awt.event.*;
 import java.awt.*;
 import java.util.Random;
-
 import javax.swing.*;
-
 
 
 public class GamePanel extends JPanel implements ActionListener{
